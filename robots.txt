@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /index.txt
 Allow: /app-ads.txt
 Allow: /privacy_policy.html
 
